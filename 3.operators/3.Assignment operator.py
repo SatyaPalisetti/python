@@ -1,4 +1,4 @@
-'''used to assign a value to a variable. it takes the value on the right hand side and stores in the variable on the left han side
+'''used to assign a value to a variable. it takes the value on the right hand side and stores in the variable on the left hand side
 '''
 
 x=10

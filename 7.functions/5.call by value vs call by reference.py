@@ -7,6 +7,9 @@ It stores both type of  parameters in different memory locations. Thus , if one 
 
 ##call by reference
 '''
-call by reference is a method in which it passes the reference or address of the actual parameter to the functions formal parameters,
+call by reference is a method in which it passes the reference or address of the actual parameter to the functions 
+formal parameters,
 which means if there are any change in the values inside the function, it reflects that change in the actual values.
 '''
+
+'''python does not support call by value & call by reference'''
